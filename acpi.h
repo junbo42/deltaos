@@ -1,0 +1,2 @@
+
+void acpi_init();
